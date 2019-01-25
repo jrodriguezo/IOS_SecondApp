@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SecondAppInterfaz
 //
-//  Created by Miguel Lahera Hervilla on 02/10/2018.
-//  Copyright © 2018 Miguel Lahera Hervilla. All rights reserved.
+//  Created by Jesus on 02/10/2018.
+//  Copyright © 2018 Jesus. All rights reserved.
 //
 
 import UIKit
